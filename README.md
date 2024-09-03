@@ -1,15 +1,14 @@
+### Hi there 👋, My name is Rahat
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/454356370_122178133814078905_2037721404988278247_n.jpg?stp=dst-jpg_s200x200&_nc_cat=108&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeEYwuF2dSs-qd-F4CJIK-l7ErSWD9mckBgStJYP2ZyQGEPFBJSBQZ9xfOJUoq80loScO-dN-eH47M_U40gpZwyp&_nc_ohc=xz5-imJqMEEQ7kNvgF8w5ac&_nc_ht=scontent.fdac7-1.fna&oh=00_AYDJDLcay6bIh4PsmJuZxFMFqgVtXfm0rMjaDV2HZTq4DQ&oe=66DB7618
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-- 👋 Hi, I’m @mrrahat2004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-<!---
-mrrahat2004/mrrahat2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
